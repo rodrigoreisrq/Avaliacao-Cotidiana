@@ -1,4 +1,4 @@
-package com.reis.poliorfismo;
+package com.reis.polimorfismo;
 
 public class ImportedProduct extends Product{
     private double customsFee;

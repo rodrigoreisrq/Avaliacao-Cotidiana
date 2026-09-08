@@ -1,6 +1,4 @@
-package com.reis.poliorfismo;
-
-import java.util.Date;
+package com.reis.polimorfismo;
 
 public class UsedProduct extends Product{
     private String manufacture;
